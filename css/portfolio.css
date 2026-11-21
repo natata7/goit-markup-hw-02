@@ -1,0 +1,14 @@
+.portfolio-list {
+  list-style: none;
+}
+
+.portfolio-title {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  color: #2e2f42;
+}
+
+.portfolio-text {
+  color: #8e8f99;
+}

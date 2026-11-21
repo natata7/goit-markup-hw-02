@@ -1,0 +1,19 @@
+.team {
+  background-color: #f4f4fd;
+}
+
+.team-list {
+  list-style: none;
+}
+
+.team-item {
+  text-align: center;
+  background-color: #fff;
+}
+
+.team-name {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  color: #2e2f42;
+}
